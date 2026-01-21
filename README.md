@@ -78,5 +78,3 @@ Chaves disponíveis:
 - Para outro sistema operacional, ajuste as constantes no código ou a configuração inicial.
 
 ---
-
-Se quiser, posso adicionar instruções de execução por terminal, exemplos completos de arquivos de entrada ou adaptar os caminhos para Linux.
